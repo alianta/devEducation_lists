@@ -1,0 +1,165 @@
+D:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+D:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+D:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+D:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+D:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+D:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+D:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+D:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+D:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+D:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+D:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+I:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+I:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+I:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+I:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+I:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+I:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+I:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+I:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+I:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+I:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+I:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+G:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+G:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+G:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+G:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+G:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+G:\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+G:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+G:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+G:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+G:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+G:\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+D:\_Study\_DevEducation\HomeWorks_VisualStudio\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+D:\_Study\_DevEducation\HomeWorks_VisualStudio\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+D:\_Study\_DevEducation\HomeWorks_VisualStudio\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+D:\_Study\_DevEducation\HomeWorks_VisualStudio\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+D:\_Study\_DevEducation\HomeWorks_VisualStudio\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+D:\_Study\_DevEducation\HomeWorks_VisualStudio\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+D:\_Study\_DevEducation\HomeWorks_VisualStudio\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+D:\_Study\_DevEducation\HomeWorks_VisualStudio\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+D:\_Study\_DevEducation\HomeWorks_VisualStudio\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+D:\_Study\_DevEducation\HomeWorks_VisualStudio\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+D:\_Study\_DevEducation\HomeWorks_VisualStudio\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+C:\Users\User\Desktop\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+C:\Users\User\Desktop\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+C:\Users\User\Desktop\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+C:\Users\User\Desktop\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+C:\Users\User\Desktop\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+C:\Users\User\Desktop\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+C:\Users\User\Desktop\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+C:\Users\User\Desktop\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+G:\devEducation-Video\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+G:\devEducation-Video\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+G:\devEducation-Video\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+G:\devEducation-Video\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+G:\devEducation-Video\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+G:\devEducation-Video\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+G:\devEducation-Video\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+G:\devEducation-Video\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+G:\devEducation-Video\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+G:\devEducation-Video\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+G:\devEducation-Video\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+I:\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+I:\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+I:\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+I:\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+I:\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+I:\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+I:\24_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+I:\24_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+I:\24_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+I:\24_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+I:\24_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+C:\Users\User\Desktop\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+C:\Users\User\Desktop\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+C:\Users\User\Desktop\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+C:\Users\User\Desktop\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+C:\Users\User\Desktop\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+C:\Users\User\Desktop\24_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+C:\Users\User\Desktop\24_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+C:\Users\User\Desktop\24_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\24_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+C:\Users\User\Desktop\24_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+C:\Users\User\Desktop\24_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+C:\Users\User\Desktop\26_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+C:\Users\User\Desktop\26_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+C:\Users\User\Desktop\26_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+C:\Users\User\Desktop\26_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+C:\Users\User\Desktop\26_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+C:\Users\User\Desktop\26_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+C:\Users\User\Desktop\26_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+C:\Users\User\Desktop\26_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\26_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+C:\Users\User\Desktop\26_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+C:\Users\User\Desktop\26_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+d:\_Study\_DevEducation\HomeWorks_VisualStudio\28_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+d:\_Study\_DevEducation\HomeWorks_VisualStudio\28_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+d:\_Study\_DevEducation\HomeWorks_VisualStudio\28_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+d:\_Study\_DevEducation\HomeWorks_VisualStudio\28_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+d:\_Study\_DevEducation\HomeWorks_VisualStudio\28_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+d:\_Study\_DevEducation\HomeWorks_VisualStudio\28_12_2019\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+d:\_Study\_DevEducation\HomeWorks_VisualStudio\28_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+d:\_Study\_DevEducation\HomeWorks_VisualStudio\28_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+d:\_Study\_DevEducation\HomeWorks_VisualStudio\28_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+d:\_Study\_DevEducation\HomeWorks_VisualStudio\28_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+d:\_Study\_DevEducation\HomeWorks_VisualStudio\28_12_2019\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+D:\Всякая фигня\08_01_2020\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+D:\Всякая фигня\08_01_2020\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+D:\Всякая фигня\08_01_2020\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+D:\Всякая фигня\08_01_2020\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+D:\Всякая фигня\08_01_2020\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+D:\Всякая фигня\08_01_2020\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+D:\Всякая фигня\08_01_2020\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+D:\Всякая фигня\08_01_2020\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+D:\Всякая фигня\08_01_2020\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+D:\Всякая фигня\08_01_2020\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+D:\Всякая фигня\08_01_2020\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+f:\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+f:\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+f:\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+f:\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+f:\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+f:\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+f:\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+f:\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+f:\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+f:\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+f:\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\HomeWorks\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\ArrayList_LinkedList\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\ArrayList_LinkedList\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\ArrayList_LinkedList\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\ArrayList_LinkedList\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+d:\_Study\_DevEducation\НА сдачу\08_01_2020_Calculator_ArrayList_LinkedList\ArrayList_LinkedList\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
+C:\Users\User\Desktop\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.exe
+C:\Users\User\Desktop\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.deps.json
+C:\Users\User\Desktop\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.json
+C:\Users\User\Desktop\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.runtimeconfig.dev.json
+C:\Users\User\Desktop\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.dll
+C:\Users\User\Desktop\ArrayList_LinkedList\HomeWorks\bin\Debug\netcoreapp3.1\HomeWorks.pdb
+C:\Users\User\Desktop\ArrayList_LinkedList\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ArrayList_LinkedList\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ArrayList_LinkedList\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.AssemblyInfo.cs
+C:\Users\User\Desktop\ArrayList_LinkedList\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.dll
+C:\Users\User\Desktop\ArrayList_LinkedList\HomeWorks\obj\Debug\netcoreapp3.1\HomeWorks.pdb
